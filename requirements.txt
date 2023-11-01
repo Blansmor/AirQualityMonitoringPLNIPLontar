@@ -102,7 +102,6 @@ more-itertools==9.1.0
 msgpack==1.0.3
 munkres==1.1.4
 mysql-connector-python==8.1.0
-nb-conda-kernels==2.3.1
 nbclassic==0.5.5
 nbclient==0.5.13
 nbconvert==6.5.4
