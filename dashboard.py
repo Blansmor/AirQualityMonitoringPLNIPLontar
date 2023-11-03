@@ -20,7 +20,7 @@ topic_co = "lontar/co"
 topic_so2 = "lontar/so2" 
 topic_no2 = "lontar/no2"
 topic_pm1 = "lontar/pm1"
-topic_pm25 = "lontar/pm2.5"
+topic_pm25 = "lontar/pm25"
 topic_pm10 = "lontar/pm10"
 mqtt_connected = False  # Variabel status koneksi MQTT
 
